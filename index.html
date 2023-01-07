@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="https://glitch.com/favicon.ico" />
+
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css" />
+
+    <!-- import the hosted version of the p5.js library from a server -->
+    <script src="https://cdn.jsdelivr.net/npm/p5@1.4.2/lib/p5.js"></script>
+
+    <!-- include my Javascript as a sketch -->
+    <script src="./sketch.js" defer></script>
+    <title>Rollercoasters - Mini Project 1</title>
+  </head>
+  <!-- Project data source: https://www.kaggle.com/datasets/thedevastator/roller-coaster-data-from-around-the-world?resource=download     -->
+  <body>
+    <!-- this is the start of content -->
+    <h1 class="title">Wild Rides: The World's Best Rollercoasters</h1>
+    <h1 class="subheading">
+      A data-driven approach to choosing the best roller coaster for you
+    </h1>
+    <!-- by default, p5 will automatically find the <main> tag and insert graphic here-->
+    <div class="flex-container">
+      <div class="side1">
+        <img
+          src="https://cdn.glitch.global/f29ce9c1-a241-4940-8816-8434ef975d22/rollercoaster.jpeg?v=1666900400075"
+          class="illustration"
+          alt="Emily on a roller coaster"
+          title="Emily on Farenheit (Hershey Park, PA, 2012)"
+        />
+        <div class="caption">Emily circa 2012 on Farenheit in Hershey Park, PA.</div>
+      </div>
+
+      <div class="side2">
+        <p>I've been a rollercoaster enthusiast for a long time, and I'm always on the lookout for my next thrill.</p>
+        <p>
+          Using Kaggle's
+          <a
+            href="https://www.kaggle.com/datasets/thedevastator/roller-coaster-data-from-around-the-world?resource=download"
+          >
+            Rollercoasters dataset </a
+          >, which contains information on the winners of the Golden Ticket
+          Award for best steel rollercoaster, I've created a visual guide to
+          help fellow thrill seekers pick their next ride. With over 1,000
+          rollercoasters to choose from, there's something for everyone,
+          whether you identify as a:
+          <li class="scaredy_cat">Scaredy cat</li>
+          <li class="middle_pack">Middle-of-the-pack rider</li>
+          <li class="daredevil">Ultimate daredevil</li>
+        </p>
+        <p>
+          For each metric, I've highlighted a rollercoaster or park that best suits each thrill-seeking level.
+          Personally, I'm trying to get to Ferrari World!
+        </p>
+        <p>
+          <b>Legend</b>
+          <div class="triangle-down"></div>
+        Each triangle represents a rollercoaster along a horizontal axis representing its speed in km/h.
+          <div class="square"></div>
+        Each square represents a rollercoaster positioned on a height v. speed Cartesian plane.
+        <div class="bar-legend"></div>
+            Each bar represents a park. The height of the bar corresponds to the average speed of the park's rollercoasters.           
+        </p>
+      </div>
+    </div>
+    <main>
+  </main>
+  </body>
+</html>
