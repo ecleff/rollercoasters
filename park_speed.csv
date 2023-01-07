@@ -1,0 +1,410 @@
+"","number","park","mean_speed"
+"1","1","Ferrari Land",185
+"2","2","Nürburgring",160
+"3","3","Ferrari World",154
+"4","4","Sun Tzu Cultural Park",135
+"5","5","Tokyo Dome City",130
+"6","6","Buffalo Bill's Resort & Casino",129
+"7","7","Hefei Wanda Theme Park",125
+"8","8","Lewa Adventure",115
+"9","9","Nascar Café",112.5
+"10","10","Janfusun Fancyworld",110
+"11","11","New York, New York Hotel & Casino",108
+"12","12","Jin Jiang Action Park",106
+"13","13","SeaWorld Orlando",105.666666666667
+"14","14","Dragon Park Ha Long",105
+"15","15","Fantawild Adventure Zhengzhou",105
+"16","16","Leofoo Village Theme Park",105
+"17","17","Nantong Adventure Land",105
+"18","18","Everland",104
+"19","19","Valleyfair",103.666666666667
+"20","20","Playland's Castaway Cove",103
+"21","21","Sochi-Park",102.5
+"22","22","Six Flags Great Adventure",101.583333333333
+"23","23","Fuji-Q Highland",101.5
+"24","24","Busch Gardens Williamsburg",101.333333333333
+"25","25","Mt. Olympus Water & Theme Park",101
+"26","26","The Land of Legends",100.5
+"27","27","Colourful Yunnan Happy World",100
+"28","28","Trans Studio Indoor Theme Park ",100
+"29","29","Victory Kingdom",100
+"30","30","Knight Valley",99
+"31","31","Disney Hollywood Studios",96
+"32","32","Great Xingdong Tourist World",95
+"33","33","Legendia",95
+"34","34","Holiday World",94.5
+"35","35","Hopi Hari",94
+"36","36","Mirabilandia Paulista",93
+"37","37","Parque de la Ciudad",93
+"38","38","Dreamworld",91.8333333333333
+"39","39","Silverwood Theme Park",91.25
+"40","40","Cedar Point",91.1428571428571
+"41","41","Attractiepark Rotterdam",91
+"42","42","Mysterious Island",91
+"43","43","Silver Dollar City",90.75
+"44","44","Happy Valley Beijing",90.6666666666667
+"45","45","Discoveryland",90.5
+"46","46","Space World",90.5
+"47","47","Kings Dominion",90.1428571428571
+"48","48","Atallah Happy Land Park",90
+"49","49","Clementon Park",90
+"50","50","Gyeongju World",90
+"51","51","Kennywood",90
+"52","52","Miragica",90
+"53","53","OWA",90
+"54","54","Universal Studios Japan",90
+"55","55","ViaSea",90
+"56","56","Belmont Park",89
+"57","57","Crystal Beach",89
+"58","58","Funtown Splashtown USA",89
+"59","59","Happy Valley Chongqing",89
+"60","60","Six Flags America",88.7777777777778
+"61","61","Adlabs Imagica",88.5
+"62","62","Disney California Adventure",88
+"63","63","Kings Island",87.75
+"64","64","Six Flags Magic Mountain",87.7272727272727
+"65","65","Wuxi Sunac Land",87.6666666666667
+"66","66","Freizeitpark Plohn",87.5
+"67","67","Oriental Heritage Wuhu",87.5
+"68","68","Quancheng Euro Park",87.5
+"69","69","Happy Valley Wuhan",87.3333333333333
+"70","70","Fantawild Dreamland Zhengzhou",87
+"71","71","Isla San Marcos Parque Temático",87
+"72","72","Six Flags Fiesta Texas",86.4444444444444
+"73","73","Port Aventura",86.1428571428571
+"74","74","Chimelong Ocean Kingdom",86
+"75","75","Hersheypark",85.6666666666667
+"76","76","Xishuangbanna Theme Park",85.5
+"77","77","Adventure World",85
+"78","78","Conny-Land",85
+"79","79","Dorney Park",85
+"80","80","Haichang Ocean Park",85
+"81","81","IMG Worlds of Adventure",85
+"82","82","Loca Joy Holiday Theme Park",85
+"83","83","PowerPark",85
+"84","84","SeaWorld San Diego",85
+"85","85","Seoul Land",85
+"86","86","Visionland",85
+"87","87","Six Flags Great America",84.8666666666667
+"88","88","Six Flags Over Georgia",84.8333333333333
+"89","89","Universal Studios Islands of Adventure",84.75
+"90","90","Galveston Island Historic Pleasure Pier",84
+"91","91","Busch Gardens Tampa",83.6
+"92","92","Tokyo Summerland",83.5
+"93","93","Gold Reef City",83.3333333333333
+"94","94","Michigan's Adventure",83.25
+"95","95","Alabama Adventure",83
+"96","96","Isla Magica",83
+"97","97","Lake Compounce",83
+"98","98","Carowinds",82.7857142857143
+"99","99","Knott's Berry Farm",82.6666666666667
+"100","100","Oriental Heritage Jinan",82.5
+"101","101","Oriental Heritage Ningbo",82.5
+"102","102","Canada's Wonderland",82.0625
+"103","103","Kemah Boardwalk",82
+"104","104","Morey's Piers",82
+"105","105","California's Great America ",81.7777777777778
+"106","106","Magic Springs & Crystal Falls",81.6666666666667
+"107","107","Wonder Island",81.6666666666667
+"108","108","Boomers!",81
+"109","109","Fantasy Island New York",81
+"110","110","Holiday Park",81
+"111","111","Wild Waves Theme Park",81
+"112","112","Six flags Over Texas",80.7857142857143
+"113","113","Chimelong Paradise",80.6666666666667
+"114","114","Ocean Park",80.6666666666667
+"115","115","Adventureland",80.5
+"116","116","Thrill Valley",80.5
+"117","117","Rusutsu Resort",80.3333333333333
+"118","118","World Joyland",80.3333333333333
+"119","119","Beijing Shijingshan Amusement Park",80
+"120","120","Family Kingdom Amusement Park",80
+"121","121","Formosan Aboriginal Culture Village",80
+"122","122","Gorky Park",80
+"123","123","Hot Go Park",80
+"124","124","Movieland Park",80
+"125","125","Phoenix Mountain's Happy Park",80
+"126","126","Ratanga Junction",80
+"127","127","Romon U-Park",80
+"128","128","Sommerland Syd",80
+"129","129","Superland",80
+"130","130","Terra Encantada",80
+"131","131","Tibidabo",80
+"132","132","Dollywood",79.75
+"133","133","Kolmården",79.5
+"134","134","Parque Warner Madrid",79.5
+"135","135","Nagashima Spa Land",79.3636363636364
+"136","136","Six Flags AstroWorld",79.3333333333333
+"137","137","Fun Spot Kissimmee",78
+"138","138","Japan Monkey Park",77.5
+"139","139","Nara Dreamland",77.5
+"140","140","Skyline Park",77.5
+"141","141","Geauga Lake",77.3333333333333
+"142","142","Six Flags St Louis",77.2727272727273
+"143","143","Energylandia",77
+"144","144","Ita Center Park",77
+"145","145","Worlds of Fun",77
+"146","146","Zoomarine",77
+"147","147","Six Flags Discovery Kingdom",76.6
+"148","148","E-DA Theme Park",76.5
+"149","149","Walt Disney Studios",76.5
+"150","150","Walibi Holland",76.3333333333333
+"151","151","TusenFryd",76.25
+"152","152","Cliff's Amusement Park",76
+"153","153","Fantawild Dreamland Zhuzhou",76
+"154","154","Freizeit-Land Geiselwind",76
+"155","155","Karolinelund",76
+"156","156","Pleasure Island",76
+"157","157","Siam Park City",76
+"158","158","Silk Road Culture Expo Park",76
+"159","159","Trimper's Rides",76
+"160","160","Kentucky Kingdom",75.9
+"161","161","Liseberg",75.5555555555556
+"162","162","La Ronde",75.25
+"163","163","Six Flags New England",75.1818181818182
+"164","164","Blackpool Pleasure Beach",75.1428571428571
+"165","165","Darien Lake",75
+"166","166","Floraland",75
+"167","167","Gardaland",75
+"168","168","Happy Valley Shanghai",75
+"169","169","Kobe Portopialand",75
+"170","170","Lotte World",75
+"171","171","Parko Paliatso",75
+"172","172","Suzhou Giant Wheel Park",75
+"173","173","Thorpe Park",74.6666666666667
+"174","174","Alton Towers",74.5833333333333
+"175","175","Walygator Parc",74
+"176","176","Fantasy Island Ingoldmells",73.5
+"177","177","Heide Park",73.25
+"178","178","Parque Espana-Shima Spain Village",72.6666666666667
+"179","179","Galaxyland Amusement Park",72.5
+"180","180","Shanghaï Disneyland",72.5
+"181","181","Toverland",72.4
+"182","182","La Feria Chapultepec Magico",72.3333333333333
+"183","183","Beto Carrero World",72
+"184","184","Celebration City",72
+"185","185","Oaks Amusement Park",72
+"186","186","Nickelodeon Universe Theme Park",71.6666666666667
+"187","187","Efteling",71.25
+"188","188","Europa Park",71.0769230769231
+"189","189","Six Flags Mexico",71
+"190","190","Djurs Sommerland",70.8
+"191","191","Knoebels",70.75
+"192","192","Expoland",70.6
+"193","193","SeaWorld San Antonio",70.25
+"194","194","Antibesland",70
+"195","195","Belantis",70
+"196","196","Berjaya Times Square Theme Park",70
+"197","197","Camelot Theme Park",70
+"198","198","Dream City",70
+"199","199","Freestyle Music Park",70
+"200","200","Sindibad",70
+"201","201","Elitch Gardens",69.8571428571429
+"202","202","Great Escape",69.5
+"203","203","Playland",69.5
+"204","204","Hansa Park",69.2
+"205","205","Aquashow",69
+"206","206","Fantawild Dreamland Wuhu",69
+"207","207","Tripsdrill",69
+"208","208","Waterville",69
+"209","209","Sea World",68.75
+"210","210","Walibi Belgium",68.4615384615385
+"211","211","Drayton Manor",68.3333333333333
+"212","212","Blue Bayou Dixie Landin'",68
+"213","213","Happy Valley Shenzhen",68
+"214","214","Lihpao Land",68
+"215","215","Nigloland",68
+"216","216","Wonderland Sydney",68
+"217","217","Frontier City",67.75
+"218","218","Southport Pleasureland",67.75
+"219","219","Santa Cruz Beach Boardwalk",67.6666666666667
+"220","220","Phantasialand",67.5
+"221","221","Luna Park",67.3333333333333
+"222","222","Yomiuriland",67.25
+"223","223","Lagoon",67.125
+"224","224","Tobu Zoo Park",66.6
+"225","225","Motiongate",66.5
+"226","226","Mirabilandia",66.2222222222222
+"227","227","Adventuredome",66
+"228","228","Le Pal",66
+"229","229","Nasu Highland Park",66
+"230","230","Parque Nacional Del Café",66
+"231","231","Warner Bros. Movie World",66
+"232","232","Greenland",65.6666666666667
+"233","233","Walibi Rhône Alpes",65.5
+"234","234","Linnanmäki",65.1111111111111
+"235","235","Freizeitpark Familienland",65
+"236","236","Fun Spot America",65
+"237","237","Global Village",65
+"238","238","Hunderfossen Familiepark",65
+"239","239","Parc de la Vallée",65
+"240","240","Farup Sommerland",64.6
+"241","241","Playcenter São Paulo",64.3333333333333
+"242","242","Bowcraft Playland",64
+"243","243","Lunapark Cap d'Agde",64
+"244","244","Six Flags New Orleans",64
+"245","245","Universal Studios Hollywood",64
+"246","246","Wild Adventures",64
+"247","247","Toshimaen",63.75
+"248","248","Parque de la Costa",63.6666666666667
+"249","249","Waldameer",63.6666666666667
+"250","250","Disney's Animal Kingdom",63.5
+"251","251","Oakwood",63.25
+"252","252","Parc Asterix",63.2222222222222
+"253","253","Amigoland",63
+"254","254","Canobie Lake Park",63
+"255","255","Rainbow MagicLand",63
+"256","256","Disneyland Park",62.6666666666667
+"257","257","Parque de Atracciones de Madrid",62.5714285714286
+"258","258","Beech Bend",62
+"259","259","Indiana Beach",62
+"260","260","Disney's Magic Kingdom",61
+"261","261","M&D Scotland's Theme Park",61
+"262","262","Movie Park Germany",60.8571428571429
+"263","263","Mundo Petapa",60.6666666666667
+"264","264","Tayto Park",60.6666666666667
+"265","265","Xetulul",60.5
+"266","266","Särkänniemi Amusement Park",60.2857142857143
+"267","267","Karls Erlebnis-Dorf Elstal",60
+"268","268","Lake Winnie",60
+"269","269","Luna Park Melbourne",60
+"270","270","Mirabilandia Olinda",60
+"271","271","Tokyo DisneySea",60
+"272","272","Wildlands Adventure Zoo Emmen",60
+"273","273","Bobbejaanland",59.7
+"274","274","Attractiepark Slagharen",59.3333333333333
+"275","275","Terra Mítica",58.6666666666667
+"276","276","Luneur",58.5
+"277","277","Vidámpark",58.5
+"278","278","Drievliet Family Park",57.5
+"279","279","Plopsaland",57.5
+"280","280","Foire",57.2727272727273
+"281","281","Flamingo Land Theme Park and Zoo",56.8888888888889
+"282","282","Bagatelle",56.75
+"283","283","Freizeipark Kirchhorst",56.5
+"284","284","Fun Works",56
+"285","285","Funtown Pier",56
+"286","286","Pacific Park",56
+"287","287","Quassy Amusement Park",56
+"288","288","Tivoli Friheden",56
+"289","289","Upper Clements Theme Park",56
+"290","290","OK Corral",55.75
+"291","291","Loudoun Castle",55.5
+"292","292","Gröna Lund",55.125
+"293","293","Familypark",55
+"294","294","Klotten (Wild- und Freizeitpark)",55
+"295","295","Majaland Kownaty",55
+"296","296","Wild- und Freizeitpark",55
+"297","297","Lightwater Valley",54.8
+"298","298","Zygo park",54
+"299","299","Pleasurewood Hills",53.75
+"300","300","Marineland Theme Park",53.5
+"301","301","Bayern Park",53
+"302","302","Story Land",53
+"303","303","Genting Theme Park",52.5
+"304","304","Hirakata Park",52.5
+"305","305","Wiener Prater",52.25
+"306","306","Wonderland Eurasia",52
+"307","307","Chessington World of Adventures",51.6666666666667
+"308","308","Gilroy Gardens Family Theme Park",51
+"309","309","Plopsa Coo",51
+"310","310","Walibi Sud Ouest",50.6666666666667
+"311","311","Bakken",50.5
+"312","312","Adventure City (Anaheim)",50
+"313","313","Dennlys Parc",50
+"314","314","Fami P.A.R.C",50
+"315","315","Ferienzentrum Schloss Dankern",50
+"316","316","Holly Park",50
+"317","317","Kingoland",50
+"318","318","Legoland Windsor",50
+"319","319","Luna Park La Palmyre",50
+"320","320","Universal Studios Florida",50
+"321","321","Vinpearl Land Nha Trang",50
+"322","322","Warner Bros. World Abu Dhabi",50
+"323","323","Yas Waterworld",50
+"324","324","Legoland Deutschland",49.6666666666667
+"325","325","Nickelodeon Universe",49
+"326","326","Bellewaerde",48.4
+"327","327","Tivoli Gardens",48.25
+"328","328","Casino Pier",48
+"329","329","China Dinosaurs Park",48
+"330","330","Fantasiana (Erlebnispark Strasswalchen)",48
+"331","331","Fort Fun Abenteuerland",48
+"332","332","Wet'n'Wild Water World",48
+"333","333","Zoo de Granby",48
+"334","334","Zoo Safari Stukenbrock",48
+"335","335","Parc des Combes",47.5
+"336","336","Fraispertuis City",47.3333333333333
+"337","337","Paultons Park",47.3333333333333
+"338","338","Avonturenpark Hellendoorn",47
+"339","339","Dreamland",47
+"340","340","Fiabilandia",47
+"341","341","Magic World",47
+"342","342","Steel Pier",47
+"343","343","Yokohama Cosmoworld",47
+"344","344","Legoland Florida",46.75
+"345","345","West Midlands Safari Park",46.5
+"346","346","Brighton pier",46
+"347","347","Geroland",46
+"348","348","Himeji Central Park",46
+"349","349","Magic Park Land",46
+"350","350","Märchenwald im Isartal",46
+"351","351","Bonbon-Land",45.75
+"352","352","Eifelpark",45
+"353","353","Europark Idroscalo",45
+"354","354","Gyeongnam Mason Robotland",45
+"355","355","La Mer de Sable",45
+"356","356","Scenic World",45
+"357","357","Sun Park",45
+"358","358","Legoland California",44.5
+"359","359","Disneyland",43.25
+"360","360","Didiland",43
+"361","361","Lagunasia",43
+"362","362","Legoland Billund",42.6666666666667
+"363","363","Parc Spirou",41.6666666666667
+"364","364","Happy Valley Chengdu",41.5
+"365","365","Parc du Bocasse",40.5
+"366","366","Parc Saint Paul",40.25
+"367","367","Blackgang Chine",40
+"368","368","Cobac Parc",40
+"369","369","Codona's Amusement Park",40
+"370","370","Kijima Amusement Park",40
+"371","371","La Coccinelle",40
+"372","372","Skara Sommarland",40
+"373","373","Tivoli World",40
+"374","374","Parc des Naudières",39
+"375","375","Plopsa Indoor Hasselt",39
+"376","376","Potts Park",39
+"377","377","Merimbula's Magic Mountain",38
+"378","378","Adventure Island",37.25
+"379","379","DippieDoe Familiepark",36
+"380","380","Duinrell",36
+"381","381","Papea Parc",36
+"382","382","Bali Safari and Marine Park",35
+"383","383","Tokushima Familyland",35
+"384","384","Tokyo Disneyland",35
+"385","385","Zoosafari Fasanolandia",34.5
+"386","386","Cavallino Matto",34
+"387","387","Europark",33
+"388","388","Amusementspark Tivoli",32
+"389","389","Mondo Verde",32
+"390","390","New Reoma World",32
+"391","391","Adventure Park Geelong",30
+"392","392","Freizeitpark Lochmühle",30
+"393","393","Tatzmania Löffingen",30
+"394","394","Serengeti Park",29.5
+"395","395","Churpfalzpark",26
+"396","396","Amsterdam Dungeon",25
+"397","397","Lollihop",25
+"398","398","Entertainment City",24
+"399","399","Loro Parque",24
+"400","400","Gulliverlandia",23
+"401","401","Botton's Pleasure Beach",22
+"402","402","Julianatoren",17
+"403","403","Salitre Magico",17
+"404","404","Schwaben Park",12
+"405","405","20th Century Fox World",0
+"406","406","Happy Valley Nanjing",0
+"407","407","Hot Go Dreamworld",0
+"408","408","Parc de la Récréation",0
+"409","409","Shaoxing Jinghu Theme Park",0
