@@ -30,6 +30,8 @@ body {
   line-height: 1.5;
   background-color: #faf6f0;
   color: #333333;
+max-width: 900px;
+padding: 10px;
 }
 
 canvas {
