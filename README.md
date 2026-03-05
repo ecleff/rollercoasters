@@ -4,7 +4,7 @@ Using Kaggle's Rollercoasters dataset, which contains information on the winners
 
 This project was built using p5.js.
 
-Check out the project here: https://rollercoasters-mini-project-1.glitch.me/ (powered by Glitch)
+Check out the project here: https://ecleff.github.io/rollercoasters/
 
 Source:
 https://www.kaggle.com/datasets/thedevastator/roller-coaster-data-from-around-the-world?resource=download
